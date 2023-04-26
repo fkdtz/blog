@@ -1,7 +1,7 @@
 const BLOG = {
   title: '菜皮日记',
   author: 'caipi',
-  authorAvatar: '/avatar.jpeg',
+  authorAvatar: '/avatar.jpg',
   email: 'monsterlabfkdtz@gmail.com',
   defaultImageHost: '',
   link: 'https://www.lipijin.com',
