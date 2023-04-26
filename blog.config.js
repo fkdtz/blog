@@ -3,8 +3,8 @@ const BLOG = {
   author: 'caipi',
   authorAvatar: '/avatar.jpeg',
   email: 'monsterlabfkdtz@gmail.com',
-  defaultImageHost: 'images.rustc.cloud',
-  link: 'https://www.rustc.cloud',
+  defaultImageHost: '',
+  link: 'https://www.lipijin.com',
   description: '菜皮的文章和随想',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   dateFormat: 'YYYY-MM-DD',
@@ -20,7 +20,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/ycjcl',
+  socialLink: '',
   seo: {
     keywords: ['Blog', 'Website', '松仔', '菜皮', 'lipijin', '李皮筋'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
