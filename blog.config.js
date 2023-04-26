@@ -1,11 +1,11 @@
 const BLOG = {
-  title: '信鑫 ffffff',
-  author: 'ycjcl868',
+  title: '菜皮日记',
+  author: 'caipi',
   authorAvatar: '/avatar.jpeg',
-  email: 'chaolinjin@gmail.com',
+  email: 'monsterlabfkdtz@gmail.com',
   defaultImageHost: 'images.rustc.cloud',
   link: 'https://www.rustc.cloud',
-  description: '写写文章的地方',
+  description: '菜皮的文章和随想',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   dateFormat: 'YYYY-MM-DD',
   appearance: 'auto', // ['light', 'dark', 'auto'],
@@ -22,7 +22,7 @@ const BLOG = {
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: 'https://twitter.com/ycjcl',
   seo: {
-    keywords: ['Blog', 'Website', '信鑫', 'ycjcl868', '博客'],
+    keywords: ['Blog', 'Website', '松仔', '菜皮', 'lipijin', '李皮筋'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   isPreviewImageSupportEnabled: process.env.IS_PREVIEW_IMAGE,
