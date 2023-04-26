@@ -84,7 +84,7 @@ const Header = ({ fullWidth }) => {
             aria-label={BLOG.title}
             href='/'
           >
-            ✨ {BLOG.title}
+             {BLOG.title}
           </Link>
         </div>
         <NavBar />
