@@ -1,5 +1,5 @@
 const BLOG = {
-  title: '信鑫 Blog',
+  title: '信鑫 ffffff',
   author: 'ycjcl868',
   authorAvatar: '/avatar.jpeg',
   email: 'chaolinjin@gmail.com',
