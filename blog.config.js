@@ -20,7 +20,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: '',
+  // socialLink: '',
   seo: {
     keywords: ['Blog', 'Website', '松仔', '菜皮', 'lipijin', '李皮筋'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
