@@ -38,7 +38,7 @@ const PostActions: React.FC<{ title: string }> = (props) => {
         'flex flex-col items-center text-center text-day dark:text-night'
       )}
     >
-      {socialLinks.map((action) => (
+      {/* {socialLinks.map((action) => (
         <a
           className={cs(
             styles.action,
@@ -57,7 +57,7 @@ const PostActions: React.FC<{ title: string }> = (props) => {
 
           <div className={styles.actionBg}>{action.icon}</div>
         </a>
-      ))}
+      ))} */}
     </div>
   )
 }
