@@ -1,5 +1,5 @@
 const BLOG = {
-  title: '菜皮日记',
+  title: '菜皮日记x',
   author: 'caipi',
   authorAvatar: '/avatar.jpeg',
   email: 'monsterlabfkdtz@gmail.com',
